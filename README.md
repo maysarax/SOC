@@ -13,12 +13,16 @@ https://github.com/Patrowl
 
 https://www.misp-project.org/
 
+https://metron.apache.org/
+
+https://github.com/DefensePointSecurity/threat_note
 
 
 
 
 Reference
 
+https://www.owasp.org/index.php/OWASP_Security_Operations_Center_(SOC)_Framework_Project
 
 https://medium.com/@myunseen/apache-metron-the-emerging-open-source-platform-for-security-operations-centre-management-36e123fa32db
 
