@@ -17,6 +17,16 @@ https://metron.apache.org/
 
 https://www.cloudsniper.io/
 
+https://cairis.org/
+
+https://github.com/MISP/PyMISP
+
+https://github.com/Cyb3rWard0g/ThreatHunter-Playbook
+
+https://github.com/0x4D31/awesome-threat-detection
+
+https://github.com/stamparm/maltrail
+
 https://github.com/DefensePointSecurity/threat_note
 
 https://github.com/CIRCL/AIL-framework
