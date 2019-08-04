@@ -19,6 +19,10 @@ https://www.cloudsniper.io/
 
 https://cairis.org/
 
+https://github.com/ANSSI-FR/SecuML
+
+https://anssi-fr.github.io/SecuML/
+
 https://github.com/MISP/PyMISP
 
 https://github.com/Cyb3rWard0g/ThreatHunter-Playbook
@@ -39,9 +43,9 @@ https://github.com/outflanknl/RedELK
 
 https://github.com/Cyb3rWard0g/HELK
 
+https://github.com/rastrea2r/rastrea2r
 
-
-
+https://github.com/yeti-platform/yeti
 
 
 Reference
