@@ -17,6 +17,7 @@ https://metron.apache.org/
 
 https://github.com/DefensePointSecurity/threat_note
 
+https://github.com/CIRCL/AIL-framework
 
 
 
@@ -33,3 +34,6 @@ https://www.exabeam.com/siem/7-open-source-siems-features-vs-limitations/
 
 https://www.cyberbit.com/blog/security-operations/top-5-open-source-incident-response-automation-tools/
 
+http://prasannamundas.com/share/opensource-tools-for-security-operations/
+
+https://searchsecurity.techtarget.com/tip/How-security-operations-centers-work-to-benefit-enterprises
